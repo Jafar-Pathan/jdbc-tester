@@ -9,6 +9,8 @@ import java.sql.*;
 /**
  *
  * @author johnpw
+ * @version 1.0
+ * @copyright feel free to contribute
  */
 public class ConnectionTester {
 String driverName,DBurl,username,password;
